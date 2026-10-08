@@ -2,11 +2,11 @@
 
 ## University Student | Software Development, AI & Data
 
-I'm a university student based in Calgary, Canada, building projects in software development, AI-assisted applications, and data analytics. My work includes a health-information assistant with inspectable source evidence, a job-market analytics platform, a sleep-tracking application, and a collaborative multiplayer game.
+I'm a university student based in Canada, building projects in software development, AI-assisted applications, and data analytics. My work includes a health-information assistant with inspectable source evidence, a job-market analytics platform, a sleep-tracking application, and a collaborative multiplayer game.
 
 I enjoy turning ideas into working applications and understanding the systems behind them—from data storage and APIs to user interfaces, testing, and evaluation.
 
-- 🌍 Based in Calgary, Alberta, Canada.
+- 🌍 Based in Canada.
 - ✉️ Contact me at [manavpreetsingh0101@gmail.com](mailto:manavpreetsingh0101@gmail.com).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mmanavpreet-singh/).
 - 🔭 Building projects with Python, Java, JavaScript, and modern web technologies.
